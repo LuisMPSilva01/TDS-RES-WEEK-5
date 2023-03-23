@@ -73,12 +73,11 @@ footer {
 
 .imageContainer {
   display: grid;
-  grid-template-columns: repeat(3, 30%);
-  grid-gap: 2%;
+  grid-template-columns: repeat(3, 32%);
+  grid-gap: 1vw;
   list-style: none;
 }
 .marega {
   width: 20vw;
-  /* you can use % */
   height: auto;
 }

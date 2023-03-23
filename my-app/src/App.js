@@ -16,7 +16,7 @@ const maregaCard = <><h1>Moussa Marega</h1>
                    </>
 
 function App() {
-  const [cards, setCards] = useState([maregaCard,maregaCard,maregaCard,maregaCard]);
+  const [cards, setCards] = useState([maregaCard,maregaCard,maregaCard,maregaCard,maregaCard,maregaCard,maregaCard]);
   return (
     <div>
         <Header text="Porto Legends"/>
